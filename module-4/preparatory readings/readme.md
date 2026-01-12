@@ -17,3 +17,6 @@ https://www.nytimes.com/2022/09/16/learning/are-ai-generated-pictures-art.html
 
 Flora Fauna
 https://www.florafauna.ai/
+
+Sofian Audrey
+https://sofianaudry.com/publications/
