@@ -76,3 +76,7 @@ I have been intensively composing music for a wide range of different formats of
 
 ### Lecture with Dr. Giacomo Lepri
 Neural audio synthesis uses machine learning models to generate or transform sound, enabling the creation of novel textures that go beyond traditional synthesis techniques. This class introduces neural audio synthesis within the landscape of contemporary electronic music and sound art. First, we will discuss diverse art projects and applications that harness neural synthesis. Second, we will introduce RAVE: a novel framework for real-time audio generation. Students will experiment hands-on with pre-trained RAVE models to get a sense of their creative potential in both music and sound design. Additionally, students will have the opportunity to try Stacco, a newly designed instrument crafted specifically for expressive control of RAVE, aiming to bridge the gap between machine learning and embodied music performance.
+
+## Assessments
+
+https://drive.google.com/drive/folders/1SZ3zbEmVYxWbxixkB6qAPXr1ZHHqKfsr
